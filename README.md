@@ -51,18 +51,24 @@ The model was trained on a dataset of real-world employee salary data and deploy
 
 ##  Folder Structure  
 
-SLR_Model_Salary_Prediction/
-│-- app.py # Flask application
-│-- SLR.pkl # Trained ML model
-│-- requirements.txt # Dependencies list
-│-- Procfile # For deployment
-│-- templates/
-│ └── index.html # Frontend UI
-│-- static/
-└── css/style.css # Styling (if available)
+> SLR_Model_Salary_Prediction/
+> 
+> │-- app.py # Flask application
+>
+> │-- SLR.pkl # Trained ML model
+>
+> │-- requirements.txt # Dependencies list
+>
+> │-- Procfile # For deployment
+>
+> │-- templates/
+>
+> │ └── index.html # Frontend UI
+>
+> │-- static/
+>
+> └── css/style.css # Styling (if available)
 
-yaml
-Copy code
 
 ---
 
